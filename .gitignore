@@ -1,0 +1,19 @@
+# Sensitive credentials & secrets (Security Protection)
+credentials.txt
+*.env
+*.pem
+*.key
+secrets/
+
+# Python cache & build files
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+env/
+
+# OS & Editor temporary files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
